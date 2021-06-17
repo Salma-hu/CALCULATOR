@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KMpMoSYvcbwUbT1QQTijHBxMVDO0icHXN68la5dMG7/+QYKAnK8k5t0Q/kMOj3TzvuqEoHySJ/PK2SU3MCMJpw==",
+  "dgSpecHash": "nqLAKYmEiJ2bY/d0D8BsQx1Ar634u1gxUy2F88X1qE3raY7CB7loisFVmAgjsISyGNd6DCGu9lI99K9enmfTOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Youcode\\Desktop\\Briefs\\CALCULATOR\\Calculator\\Calculator\\Calculator.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Youcode\\Desktop\\Briefs\\CALCULATOR\\calculator\\calculator\\calculator.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
