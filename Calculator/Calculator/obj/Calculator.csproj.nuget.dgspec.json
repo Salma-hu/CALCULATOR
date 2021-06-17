@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Youcode\\Desktop\\Briefs\\CALCULATOR\\calculator\\calculator\\calculator.csproj": {}
+    "C:\\Users\\Youcode\\Desktop\\Briefs\\CALCULATOR\\Calculator\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Youcode\\Desktop\\Briefs\\CALCULATOR\\calculator\\calculator\\calculator.csproj": {
+    "C:\\Users\\Youcode\\Desktop\\Briefs\\CALCULATOR\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\Briefs\\CALCULATOR\\calculator\\calculator\\calculator.csproj",
-        "projectName": "calculator",
-        "projectPath": "C:\\Users\\Youcode\\Desktop\\Briefs\\CALCULATOR\\calculator\\calculator\\calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\Briefs\\CALCULATOR\\Calculator\\Calculator\\Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "C:\\Users\\Youcode\\Desktop\\Briefs\\CALCULATOR\\Calculator\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youcode\\Desktop\\Briefs\\CALCULATOR\\calculator\\calculator\\obj\\",
+        "outputPath": "C:\\Users\\Youcode\\Desktop\\Briefs\\CALCULATOR\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
